@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The Good for Nothings Club is a creator club from Austin, TX made up of filmmakers, photographers, musicians, engineers, and creatives. Club members bring projects and meet weekly to lend expertise, collaborate, and hold each other accountable on progress.
+The Good for Nothings Club is a creators club from Austin, TX made up of designers, engineers, filmmakers, musicians, and writers. Club members bring projects and meet weekly to lend expertise, collaborate, and hold each other accountable on progress. 
 Good for nothings. Great at everything.
 
 Check us out at https://www.thegoodfornothings.club/
